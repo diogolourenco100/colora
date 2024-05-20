@@ -10,18 +10,18 @@ pip install -r requirements.txt
 
 ## 2 - Import the colora.py in your project
 ```python
-from colora import green
+from colora import green, red
 ```
 
 ## 3 - See these examples to see how to use them
 ```python
-from colora import green, magenta
+from colora import green, red
 
 # Example 1
 text1 = green('This is a GREEN text')
 print(text)
 
 # Example 2
-text2 = 'This is a MAGENTA text'
-print(magenta(text2))
+text2 = 'This is a RED text'
+print(red(text2))
 ```
