@@ -1,7 +1,7 @@
 # Colora
 
 ## 1 - Install Requirements
-*(necessary the Colorama libraries)*
+*(Colorama library required)*
 
 To install the requirement, run the following command:
 ```bash
