@@ -23,7 +23,7 @@ from colora import green, red
 
 # Example 1
 text1 = green('This is a GREEN text')
-print(text)
+print(text1)
 
 # Example 2
 text2 = 'This is a RED text'
