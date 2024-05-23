@@ -7,6 +7,10 @@ To install the requirement, run the following command:
 ```bash
 pip install -r requirements.txt
 ```
+or
+´´´bash
+pip install colorama
+´´´
 
 ## 2 - Import the colora.py in your project
 ```python
